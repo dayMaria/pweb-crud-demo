@@ -6,5 +6,4 @@ import java.util.List;
 
 public interface CourseService {
     List<CourseDto> getCourse();
-//kjhgfdsdfhjkj
 }
